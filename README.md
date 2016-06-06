@@ -1,11 +1,22 @@
-This app shows you how to use an SQLite Database and SQLite.Net ORM. There are three projects in the solution:
-* DAL - Data Access Layer. A .NET Library project that contains the data model for the ORM and the SQLite.NET package (just one source code file). The two files in this project are linked in the DAL folders of the other two projects.
-* Console - A .NET Console app that parses Stock data files (csv) and puts the data into a SQLite database file in the Assets folder of the Android project.
-* Android - An Android app that displays the stock data in a ListView.
+This App is for searching Items in food that are or are not vegan.
 
-Note: This app is just one app in the class demo repository.
-To get the source code for this app you will need to
-clone or download the whole repository.
 
-This demo was written for CS235AM, Android App Development, at Lane Community College.
-Read more about the course here: https://birdsbits.wordpress.com/2014/09/09/xamarin-android-course
+This is an early version not alpha etc, but stable.
+
+The app has the following features:
+
+Preferences to tailor the app to the users needs examples:
+The ability to mark certain non animal based foods as Non-Vegan (sugar, palm oil) for example.
+
+A database where the user can search for Vegan/Non-Vegan food.
+(As of Version 0.1 the database has around 10,000 entries)
+
+A web view search if the selected item is not in the database.
+(The webview links directly to google url by default, but user can change in preferences).
+
+To Do's:
+- A scanning tool, taking using the camera to search the database automatically.
+- More preferences to help users make the app more personable.
+- A recipe search, finding an replacing current reciples with their Non-Animal counterparts. Including correct measurements example (1 egg replacement recipe switched per egg in a recipe)
+
+This version is currently in pre-alpha 0.1
