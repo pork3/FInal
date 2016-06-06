@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="DataAccess-Android\DataAccess-Android.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" PreferredExecutionTarget="Android.55555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataAccess-Android\PreferencesAdapter.cs">
+    <Files>
+      <File FileName="DataAccess-Android\PreferencesAdapter.cs" Line="45" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DataAccess-Android AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

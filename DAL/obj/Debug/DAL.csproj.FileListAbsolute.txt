@@ -1,0 +1,5 @@
+C:\Users\Zachre\Desktop\TideLab8Version2\DAL\bin\Debug\DAL.dll
+C:\Users\Zachre\Desktop\TideLab8Version2\DAL\bin\Debug\DAL.pdb
+C:\Users\Zachre\Desktop\TideLab8Version2\DAL\obj\Debug\DAL.dll
+C:\Users\Zachre\Desktop\TideLab8Version2\DAL\obj\Debug\DAL.pdb
+C:\Users\Zachre\Desktop\TideLab8Version2\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

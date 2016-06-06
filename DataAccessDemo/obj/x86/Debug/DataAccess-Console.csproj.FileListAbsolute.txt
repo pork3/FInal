@@ -1,0 +1,5 @@
+C:\Users\Zachre\Desktop\TideLab8Version2\DataAccessDemo\obj\x86\Debug\DataAccess-Console.csprojResolveAssemblyReference.cache
+C:\Users\Zachre\Desktop\TideLab8Version2\DataAccessDemo\bin\Debug\DataAccessDemo.exe
+C:\Users\Zachre\Desktop\TideLab8Version2\DataAccessDemo\bin\Debug\DataAccessDemo.pdb
+C:\Users\Zachre\Desktop\TideLab8Version2\DataAccessDemo\obj\x86\Debug\DataAccessDemo.exe
+C:\Users\Zachre\Desktop\TideLab8Version2\DataAccessDemo\obj\x86\Debug\DataAccessDemo.pdb
